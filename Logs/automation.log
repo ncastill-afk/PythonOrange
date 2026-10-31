@@ -1,0 +1,76 @@
+30-Oct-26 14:25:15 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 14:25:21 - root - INFO - ****Test_001_Login****
+30-Oct-26 14:25:21 - root - INFO - ****Verifying Login incorrecto****
+30-Oct-26 14:25:32 - root - INFO - ****HomePage Title test is passed****
+30-Oct-26 14:50:33 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 14:50:42 - root - INFO - ****Test_001_Login****
+30-Oct-26 14:50:42 - root - INFO - ****Verifying Login incorrecto****
+30-Oct-26 14:50:51 - root - INFO - ****HomePage Title test is passed****
+30-Oct-26 15:13:50 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 15:13:58 - root - INFO - ****Test_001_Login****
+30-Oct-26 15:13:58 - root - INFO - ****Verifying Login incorrecto****
+30-Oct-26 15:14:07 - root - INFO - ****HomePage Title test is passed****
+30-Oct-26 15:29:58 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 15:29:58 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 15:30:03 - selenium.webdriver.common.selenium_manager - WARNING - Metadata file C:\Users\danae\.cache\selenium\se-metadata.json cannot be parsed: EOF while parsing a value at line 45 column 6. Using empty metadata
+30-Oct-26 15:30:07 - root - INFO - ****Test_001_Login****
+30-Oct-26 15:30:07 - root - INFO - ****Verifying Login incorrecto****
+30-Oct-26 15:30:08 - root - INFO - ****Verifying Login test****
+30-Oct-26 15:30:16 - root - INFO - ****HomePage Title test is passed****
+30-Oct-26 15:30:25 - root - INFO - ****Login test is passed****
+30-Oct-26 16:24:42 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 16:24:42 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 16:24:46 - root - INFO - ****Test_001_Login****
+30-Oct-26 16:24:46 - root - INFO - ****Verifying Login incorrecto****
+30-Oct-26 16:24:46 - root - INFO - ****Verifying Login test****
+30-Oct-26 16:24:55 - root - INFO - ****HomePage Title test is passed****
+30-Oct-26 16:24:59 - root - INFO - ****Login test is passed****
+30-Oct-26 18:30:43 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 18:30:50 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 18:30:50 - root - INFO - ****Verifying Login test****
+30-Oct-26 18:34:08 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 18:34:11 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 18:34:11 - root - INFO - ****Verifying Login test****
+30-Oct-26 18:46:59 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 18:47:03 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 18:47:03 - root - INFO - ****Verifying Login test****
+30-Oct-26 18:49:11 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 18:49:14 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 18:49:14 - root - INFO - ****Verifying Login test****
+30-Oct-26 18:49:36 - root - INFO - Login exitoso para el usuario: Admin
+30-Oct-26 18:57:25 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 18:57:28 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 18:57:28 - root - INFO - ****Verifying Login test****
+30-Oct-26 18:57:36 - root - INFO - Probando usuario: Admin - Resultado esperado: Pass
+30-Oct-26 18:57:45 - root - INFO - Login exitoso para el usuario: Admin
+30-Oct-26 18:57:48 - root - INFO - Probando usuario: Admin - Resultado esperado: Fail
+30-Oct-26 19:16:18 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 19:16:21 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 19:16:21 - root - INFO - ****Verifying Login test****
+30-Oct-26 19:16:31 - root - INFO - Probando usuario: Admin - Resultado esperado: Pass
+30-Oct-26 19:16:38 - root - INFO - Login exitoso para el usuario: Admin
+30-Oct-26 19:16:42 - root - INFO - Probando usuario: Admin - Resultado esperado: Fail
+30-Oct-26 19:27:49 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 19:27:53 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 19:27:53 - root - INFO - ****Verifying Login test****
+30-Oct-26 19:28:05 - root - INFO - Probando usuario: Admin - Resultado esperado: Pass
+30-Oct-26 19:28:13 - root - INFO - Login exitoso para el usuario: Admin
+30-Oct-26 19:28:15 - root - INFO - Probando usuario: Admin - Resultado esperado: Fail
+30-Oct-26 19:28:20 - root - INFO - Login rechazado correctamente para: Admin
+30-Oct-26 19:28:20 - root - INFO - Probando usuario: adminis - Resultado esperado: Fail
+30-Oct-26 19:28:26 - root - INFO - Login rechazado correctamente para: adminis
+30-Oct-26 19:28:26 - root - INFO - Probando usuario: adminis - Resultado esperado: Fail
+30-Oct-26 19:28:31 - root - INFO - Login rechazado correctamente para: adminis
+30-Oct-26 19:54:11 - root - INFO - Prueba de creación del archivo log
+30-Oct-26 19:54:17 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 19:54:17 - root - INFO - ****Verifying Login test****
+30-Oct-26 19:54:34 - root - INFO - Login exitoso para el usuario: Admin
+30-Oct-26 19:54:50 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 19:54:50 - root - INFO - ****Verifying Login test****
+30-Oct-26 19:55:03 - root - INFO - Login rechazado correctamente para: Admin
+30-Oct-26 19:55:09 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 19:55:09 - root - INFO - ****Verifying Login test****
+30-Oct-26 19:55:23 - root - INFO - Login rechazado correctamente para: adminis
+30-Oct-26 19:55:30 - root - INFO - ****Test_002_DDT_Login****
+30-Oct-26 19:55:30 - root - INFO - ****Verifying Login test****
+30-Oct-26 19:55:46 - root - INFO - Login rechazado correctamente para: adminis
