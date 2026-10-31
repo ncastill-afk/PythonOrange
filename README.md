@@ -104,8 +104,7 @@ La hoja LoginData contiene los siguientes campos:
 
 | Username | Password | Expected
 |----------|----------|-------------|
-| Admin    | Contraseña válida | Pass |
-
+| Admin    | Contraseña válida     | Pass |
 | Admin    | Contraseña incorrecta | Fail |
 
 Los datos son leídos mediante la biblioteca OpenPyXL.
