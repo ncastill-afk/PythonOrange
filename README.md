@@ -102,11 +102,11 @@ Archivo: TestData/LoginData.xlsx
 
 La hoja LoginData contiene los siguientes campos:
 
-Username | Password | Expected
+| Username | Password | Expected
+|----------|----------|-------------|
+| Admin    | Contraseña válida | Pass |
 
-Admin | Contraseña válida | Pass
-
-Admin | Contraseña incorrecta | Fail
+| Admin    | Contraseña incorrecta | Fail |
 
 Los datos son leídos mediante la biblioteca OpenPyXL.
 
