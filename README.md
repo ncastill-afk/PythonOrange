@@ -1,6 +1,6 @@
-#OrangeHRM - Python Automation Testing
+# OrangeHRM - Python Automation Testing
 
-##Descripción
+## Descripción
 
 Proyecto de automatización de pruebas funcionales para la aplicación web **OrangeHRM**, desarrollado como parte de un portafolio de **QA Automation**.
 
@@ -8,7 +8,7 @@ El proyecto utiliza **Python, Selenium WebDriver y Pytest**, aplicando el patró
 
 El objetivo es validar diferentes escenarios de autenticación, mejorar la mantenibilidad del código y generar reportes automáticos de los resultados de las pruebas.
 
-##Aplicación bajo prueba
+## Aplicación bajo prueba
 
 - **Aplicación:** OrangeHRM
 
@@ -18,21 +18,22 @@ El objetivo es validar diferentes escenarios de autenticación, mejorar la mante
 
 - **Módulo automatizado:** Login.
 
-##Tecnologías y herramientas
+## Tecnologías y herramientas
 
-**Tecnología / Herramienta**|	**Versión**	|**Descripción**
-Python|	3.14.6	|Lenguaje de programación.
-Selenium WebDriver|	4.52.0	|Automatización de navegadores web.
-Pytest|	9.2.0	|Framework de ejecución de pruebas.
-Pytest-HTML|	4.2.0	|Generación de reportes HTML.
-Pytest-xdist|	3.8.0	|Ejecución paralela de pruebas.
-OpenPyXL|	3.1.5	|Lectura y manipulación de archivos Excel.
-Chrome|	156	|Navegador utilizado para las pruebas.
-PyCharm|	2026.2.3	|Entorno de desarrollo.
-Git|	2.45.1.windows.1	|Control de versiones.
-GitHub|	—	|Repositorio del proyecto.
+**Tecnología / Herramienta** |	**Versión**	| **Descripción**
+|----------------------------|--------------|-----------------|
+| Python                     |	3.14.6	    | Lenguaje de programación. |
+| Selenium WebDriver         |	4.52.0	    | Automatización de navegadores web. |
+| Pytest                     |	9.2.0       | Framework de ejecución de pruebas. |
+| Pytest-HTML                |	4.2.0	    | Generación de reportes HTML. |
+| Pytest-xdist               |	3.8.0	    | Ejecución paralela de pruebas. |
+| OpenPyXL                   |	3.1.5	    | Lectura y manipulación de archivos Excel. |
+| Chrome                     |	156	        | Navegador utilizado para las pruebas. |
+| PyCharm                    |	2026.2.3	| Entorno de desarrollo. |
+| Git                        |	2.45.1.windows.1	| Control de versiones. |
+| GitHub |	—	| Repositorio del proyecto. |
 
-##Arquitectura del proyecto
+## Arquitectura del proyecto
 
 Se utiliza el patrón **Page Object Model (POM)** para separar los elementos y acciones de la página web de la lógica de los casos de prueba.
 ``` text
@@ -71,7 +72,7 @@ PythonOrange/
 └── README.md
 ```
 
-##Funcionalidades automatizadas
+## Funcionalidades automatizadas
 
 1. Login exitoso
 
@@ -149,7 +150,7 @@ Ubicación:
 
 Reports/report.html
 
-##Configuración del proyecto
+## Configuración del proyecto
 
 1. Clonar el repositorio
 
@@ -179,29 +180,29 @@ Configurations/config.ini
 
 Este archivo contiene los parámetros de configuración de la aplicación, como la URL y las credenciales utilizadas por las pruebas.
 
-##Ejecución de las pruebas
+## Ejecución de las pruebas
 
-##Ejecutar todas las pruebas
+## Ejecutar todas las pruebas
 
 pytest -v -s
 
-##Ejecutar pruebas de login
+## Ejecutar pruebas de login
 
 pytest -v -s testCases/test_login.py
 
-##Ejecutar pruebas DDT
+## Ejecutar pruebas DDT
 
 pytest -v -s testCases/test_login_ddt.py
 
-##Generar reporte HTML
+## Generar reporte HTML
 
 pytest -v -s --html=Reports/report.html --self-contained-html
 
-##Ejecutar pruebas en paralelo
+## Ejecutar pruebas en paralelo
 
 pytest -v -s -n=2
 
-##Buenas prácticas aplicadas
+## Buenas prácticas aplicadas
 
 - Separación de responsabilidades mediante Page Object Model.
 
@@ -221,7 +222,7 @@ pytest -v -s -n=2
 
 - Uso de entornos virtuales de Python.
 
-##Objetivos de aprendizaje
+## Objetivos de aprendizaje
 
 Este proyecto permite aplicar y fortalecer conocimientos en:
 
@@ -241,6 +242,6 @@ Este proyecto permite aplicar y fortalecer conocimientos en:
 
 - Control de versiones con Git y GitHub.
 
-##Autor NAdia Castillo
+## Autor Nadia Castillo
 
 Proyecto desarrollado como parte de un portafolio de QA Automation, con el objetivo de demostrar conocimientos prácticos en automatización de pruebas funcionales utilizando Python y Selenium WebDriver.
