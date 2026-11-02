@@ -28,6 +28,7 @@ El objetivo es validar diferentes escenarios de autenticación, mejorar la mante
 | Pytest-HTML                |	4.2.0	    | Generación de reportes HTML. |
 | Pytest-xdist               |	3.8.0	    | Ejecución paralela de pruebas. |
 | OpenPyXL                   |	3.1.5	    | Lectura y manipulación de archivos Excel. |
+| allure-pytest              |  2.16.2      | Integración de Allure con Pytest para generar reportes detallados |
 | Chrome                     |	156	        | Navegador utilizado para las pruebas. |
 | PyCharm                    |	2026.2.3	| Entorno de desarrollo. |
 | Git                        |	2.45.1.windows.1	| Control de versiones. |
@@ -196,6 +197,16 @@ pytest -v -s testCases/test_login_ddt.py
 ## Generar reporte HTML
 
 pytest -v -s --html=Reports/report.html --self-contained-html
+
+## Reportes de pruebas con Allure
+
+El proyecto utiliza allure-pytest para generar resultados de ejecución que permiten visualizar informes detallados de las pruebas automatizadas.
+
+Generar resultados
+
+Para ejecutar las pruebas y guardar los resultados de Allure:
+
+pytest --alluredir=Reports/allure-results
 
 ## Ejecutar pruebas en paralelo
 
